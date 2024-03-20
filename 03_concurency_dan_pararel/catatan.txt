@@ -1,0 +1,5 @@
+// sejarah
+- dahulu komputer hanya menjalankan sebuah program pada satu waktu. karena hanya bisa menjalankan satu buat program pada satu waktu
+hal ini tidak efisien dan memakan waktu yang lama karena hanya bisa mengerjakan satu tugas pada satu waktu.
+- semakin kesini sistem operasi untuk komputer semakin berkembang, sekarang sistem operasi bisa menjalankan program secara bersamaan 
+dalam proses yang berbeda beda, terisolasi dan saling indipenden antar program.
