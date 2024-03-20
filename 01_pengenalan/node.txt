@@ -1,0 +1,5 @@
+nodejs di kenalkan oleh ryan dahl pada tahun 2009
+nodejs sendiri merupakan teknologi yang bisa di gunakan untuk menjalankan kode javascript di luar web browser
+teknologi ini di buat dengan v8 Engine yaiut engine yang di gunakan untuk google chrome dan bersifat open source.
+
+https://nodejs.org
