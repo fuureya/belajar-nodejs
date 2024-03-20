@@ -1,0 +1,4 @@
+// apa itu web aplication
+
+adalah aplikasi yang berjalan di server dan di tampilkan di browser client
+saat kita membuat web aplication biasanya akan d bagi menjadi 3 bagian client, server dan database.
