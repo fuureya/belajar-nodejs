@@ -1,0 +1,7 @@
+untuk install nodejs kamu bisa masuk ke sini
+https://nodejs.org/en
+
+atau bisa menggunakan perintah 
+$sudo apt-get install nodejs
+
+atau bisa menggunakna nmv(node version manager)
