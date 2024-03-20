@@ -1,0 +1,2 @@
+- concurency arti nya mengerjakan beberapa pekerjaan satu persatu
+- paralel mengerjakan beberapa pekerjaan sekaligus dalam satu waktu

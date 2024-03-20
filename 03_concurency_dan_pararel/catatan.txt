@@ -15,3 +15,8 @@ operasi i/o dan permintaan lainnya.
 namun nodejs memiliki kemampuan untuk memanfaatkan multithreading melalui penggunaan modul tambahan seperti 'worker_threads'
 yang memungkinkan anda untuk membuat thread tambahan untuk eksekusi tugas yang membutuhkan komputasi intensif atau operasi blocking
 
+
+program biasanya berjalan dalam sebuah proses, dan proses akan memiliki resource yang indipenden dengan proses lain. sekarang sistem operasi tidak hanya bisa menjalankan multiple proses, namun dalan proses kita bisa menjalankan banyak sekaligus atau bisa di bilang proses ringan atau lebih di kenal dengan nama thread.
+
+thread membuat proses aplikasi bisa berjalan tidak harus selalu sequencial. kita bisa membuat proses tersebut berjalan menajdi asynchronous atau pararel.
+
