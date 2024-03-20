@@ -1,5 +1,16 @@
-nodejs di kenalkan oleh ryan dahl pada tahun 2009
-nodejs sendiri merupakan teknologi yang bisa di gunakan untuk menjalankan kode javascript di luar web browser
-teknologi ini di buat dengan v8 Engine yaiut engine yang di gunakan untuk google chrome dan bersifat open source.
+// pengenalan singkat
+
+-nodejs di kenalkan oleh ryan dahl pada tahun 2009
+-nodejs sendiri merupakan teknologi yang bisa di gunakan untuk menjalankan kode javascript di luar web browser
+-teknologi ini di buat dengan v8 Engine yaiut engine yang di gunakan untuk google chrome dan bersifat open source.
 
 https://nodejs.org
+
+// why learn nodejs
+-nodejs mempopulerkan paradigma javascript Everywhere dimana menggunakan node js kita bisa membuat aplikasi serverside dengan bahasa js
+yang di mana kita hanya menulis satu bahasa pemrograman dan sapat mencakup frontend dan backend
+-saat ini nodejs populer dan banyak di gunakan di perusaaan teknlogi terutama untuk membantu pengembangan frontend
+
+// yang tidak bisa di nodejs
+-nodejs tidak berjalan di browser jadi tidak semua fitur js bisa di jalankan
+-seperti DOM dan web API
