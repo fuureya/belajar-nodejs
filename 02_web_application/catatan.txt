@@ -1,4 +1,20 @@
 // apa itu web aplication
-
 adalah aplikasi yang berjalan di server dan di tampilkan di browser client
 saat kita membuat web aplication biasanya akan d bagi menjadi 3 bagian client, server dan database.
+
+// client
+-merupaka user interface atau bagian frontend dari web aplication yang di gunakan oleh pengguna web aplication
+- client di gunakan unutk berinteraksi dengan server. baik itu mengirim data atau menerima data
+- frontend biasanya di buat menggunakan HTML, CSS, dan js
+
+// server
+- bertanggung jawab untuk menerima request dari client. mengejrkana request yang di kirim dan membalas request berupa response ke client
+- bertugas sebgai backend untuk web app dimana semua logic aplikasi di lakukan di server
+- biasnaya di buat menggunakna php, python, java, .net dan banyak bhasa lainnya
+- dengan nodejs sekarang bisa membuat server menggunakan js
+
+// database
+- adalah tempat untuk menyimpan data web app
+- data di simpan dan di ambil oleh server
+- client tidak bisa langsung mengambil atau menyimpan data ke DB secara langsung, oleh karena itu perlu penengnah untuk melakukan yaitu server
+- DB biasanya menggunakan aplikasi simbada seperti mysql, postgree, mongo dll.
