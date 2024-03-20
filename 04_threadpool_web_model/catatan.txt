@@ -1,0 +1,27 @@
+// threadpool
+sudah di jelaskan bahwa thread adalah proses ringan yang biasa di buat saat pembuatan aplikasi. walaupun bisa di bilang ringan, namun
+jika terlalu banyak membuat thread, maka akan tetap memberatkan sistem operasi kita. 
+
+oleh karena itu, biasanya kita akan menggunakan threadpool untuk menggunakan management thread. threadpool merupakan tempat kita menyimpan thread, 
+ketika kita butuh kita akanmengambil dari threadpol. ketika sudah selesai kita akan kembalikan threadnya ke treadpool.
+
+dengan threadpool, kita bisa memanfaatkan thrad yang sama berkali kali tanpa harus membuat thrad yang baru terus menerus.
+
+
+// mekanisme threadpool queue
+
+- apa yang terjadi ketika semua thread sedang bekerja? bagaimna jika kita ingin meminta thread ke threadpool untuk mengerjakan sesuatu?
+- jika semua thread penuh kita tidak bisa meminta lagi thread ke threadpool. kita harus menunggu sampai ada thread yang tidak sibuk.
+- dimana kita harus menunggu sampai ada thread tersedia untuk di gunakan
+- biasanya threadpool memilik tempat untuk menyimpan tugas yang belum di kerjakan oleh thread di tempat bernama queue(antrian)
+- ketika kita mengirim perintah ke threadpool, perintah tersebut akan di kirim ke queue, lalu perintah-perintah itu akan dieksekusi satu persatu 
+oleh thread yang tersedia di threadpool.
+
+
+// threadpool web model
+- hadulu pembuatan web application sangat populer menggunakan threadpool model
+- setiap request yang masuk ke web server akan di proses oleh satu buath thread.
+- dengan demikian ketika banyak request yang masuk, semua bisa di peroleh secara paralel karena di tangani oleh thread masing - masing.
+- namun threadpool model ini memiliki kekurangan, ketika thread sedang sibuk semua, secara otomatis request selanjutnya harus menunggu sampai ada 
+thread yang selesai melakukan tugas sebelumnya.
+-contoh web server yang menggunakan threadpool model, seperti apache httpd, apache tomcat dan lain-lain
