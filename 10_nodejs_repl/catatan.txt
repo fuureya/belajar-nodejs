@@ -1,0 +1,11 @@
+REPL (Read, Eval, Print, Loop)
+
+-REPL singkatan dari Read Eval Print Loop
+- Yaitu mekanisme dimana program bisa membaca lansung kode program yang di ketikkan lalu 
+    mengeksekusi nya, menampilkan hasilnya lalu mengulangi dari awal.
+- nodejs mendukung REPL sehinggu mudah ketika belajar
+
+// kode REPL
+$node => kode untuk masuk ke mode repl
+
+atau node namafile.js/namafile.mjs
