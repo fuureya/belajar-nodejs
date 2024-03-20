@@ -1,0 +1,13 @@
+// blocking
+
+- saat kita membuat kode program, secara default kode program akan berjalan secara blocking atau synchronous. 
+- artinya kita harus menuggu sebuah kode selesai sebelum kode selanjutnya di eksekusi
+- contoh ketika kita membuat kode program untuk membaca file, ketika kode kita blocking, maka kita harus menunggu program
+  selesai membaca file. baru kita bisa melanjutkan kode program selanjut nya.
+
+
+// non blocking
+- non blocking akan di eksekusi tanpa harus menunggu kode program tersebut selesai
+- non blocking akan di jalankan secara asynchronous
+- ketika memanggil kode non-blocking. biasanya kita perlu mengirimkan callback untuk di panggil oleh kode non blocking tersebut ketikakode sudah selesai di ambil
+- di nodejs hampir semuanya mendukung non blocking
