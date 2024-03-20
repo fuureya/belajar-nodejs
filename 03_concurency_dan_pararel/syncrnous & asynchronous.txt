@@ -1,0 +1,7 @@
+// konsep synchronous dan asynchronous
+
+saat membuat aplikasi yang concurrent atau paralel. kadang kita sering menemukan istilah synchronous dan asynchronous.
+
+synchronous adalah ketika kode program kita berjalan secara sequential dan semua tahapan di tunggu sampai proses nya selesai baru akan di eksekusi ke tahap selanjutnya
+sedangkan asynchronous artinya ketika kode program kita berjalan dan kita tidak perlu menunggu kode eksekusi tersebuat selesai. kita bisa lanjut ke tahapan kode program selanjutnya
+
