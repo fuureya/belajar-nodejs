@@ -1,0 +1,3 @@
+- saat belajar js untuk menggunakan async await biasnaya kita perlu membuat terlbih dahulu function yang kita tandai sebagai async
+- saat kita menggunakan module, secara default global scope adalah async, oleh karena itu kita bisa menggunakan async await
+- kecuali jika kita membuat fuction, maka function tersebut harus kita tandai sebagai async jika ingin menggunakan async await

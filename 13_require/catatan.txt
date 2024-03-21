@@ -1,0 +1,4 @@
+- awal ketika nodejs rilis fitur js module belum rilis namun sekarang js sudah banyak mengadopsi modules.
+- nodejs awalnya juga tidak menggunakan modules. 
+- namun awal sebelum menggunakan modules nodejs menggunakan require()   
+    untuk melakukan import file
