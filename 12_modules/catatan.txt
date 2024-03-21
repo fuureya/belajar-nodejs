@@ -1,0 +1,5 @@
+Modules
+
+- standart library yang terdapat di nodejs bisa kita gunakan seperti layaknya javascript Modules
+- karena nodejs menggunakan modules, jika kita ingin menggunakan modules, kita juga perlu memberi tahu
+    bahwa file js kita mneggunakan modules. caranya dengan mengubah nama file menjadi .mjs
