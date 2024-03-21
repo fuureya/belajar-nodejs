@@ -1,0 +1,1 @@
+- OS merupakan standart library yang bisa di gunakan untuk mendapatkan informasi tentang operasi yang di gunakan
