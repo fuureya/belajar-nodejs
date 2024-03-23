@@ -1,0 +1,1 @@
+path merupakan standart library yang bisa di gunakan untuk bekerja dengan file dan direktori/folder

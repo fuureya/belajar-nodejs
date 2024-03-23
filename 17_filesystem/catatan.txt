@@ -1,0 +1,8 @@
+apa itu file system
+
+- merupakan standart library yang bisa di gunakan untuk memanipulasi file system
+- Dalam file system, terdapat 3 jenis library
+- library yang bersifat blocking atau syncronous
+- kedua library yang bersifat non-blocking atau asynchronous menggunakan callback
+- ketika library yang bersifat non-blocking atau asyncronous tapi menggunakan promise
+
