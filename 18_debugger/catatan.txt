@@ -1,0 +1,25 @@
+debugger 
+
+-node js memiliki fitur debugger, dimana kita bisa mengikuti tahapan eksekusi program di nodejs
+- hal ini sangat cocok ketika kita melakukan proses debugging, mencari sebab masalah yang terjadi di aplikasi kita
+
+
+//untuk melakukan debugger ada proses yang namanya breakpoint
+- dalam debugging terdapat istilah breakpoint, yaitu proses dimana kita ingin menghentikan sementara eksekusi kode program
+- biasanya ini di lakukan untuk mengawasi data data di sekitar lokasi berhentinya tersebut
+- untuk menambahkan breakpoint kita bisa menggunakan kata kunci debugger
+
+// menjalankan mode debugger
+- jika kita menjalankan file js hanya dengan menggunakan perintah $node nama_file maka secara default
+dia tidak akan di jalankan dalam mode debugger
+- agar jalan dalam mode debug, kita harus menambah perintah inspect: 
+    node inspect namafile.js 
+
+// perintah debugger
+saat masuk ke mode debugger ada beberapa perintah yang bisa kita gunakan dalam melakukan debugging : 
+
+- cont c: Continue execution
+- next n: Step next
+- step, s: Step in
+- out, o: Step out
+- pause: Pause running code 
