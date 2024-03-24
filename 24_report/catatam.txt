@@ -1,0 +1,4 @@
+REPORT 
+
+- report merupakan standart library yang terdapat di fitur nodejs untuk membuat laporan secara otomatis dalam file ketika sesuati terjadi pada aplikasi nodejs kita 
+

@@ -1,0 +1,6 @@
+#TIMER
+
+-timer merupakan standart library untuk melakukan scheduling 
+- function di timer terdapat global, sehingga kita bisa menggunakan nya tanpa melakukan import namun semua function timer menggunakan callback 
+- jika ktia ingin menggunakan timer versi promise kita bisa mengimport dari moduile timer/promise 
+

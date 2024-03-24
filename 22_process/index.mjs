@@ -7,3 +7,6 @@ import process, { exitCode } from "process";
 process.addListener('exit', () => {
     console.info(`node js with exit code ${exitCode}`)
 })
+
+console.info(process.info);
+console.info(process.argv);

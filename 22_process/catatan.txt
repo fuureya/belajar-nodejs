@@ -1,0 +1,5 @@
+#process 
+
+-merupakan standart library yang di gunakan untuk mendapatkan informasi proses nodejs yang berjalan secara berjalan
+- process juga merupakan instancde dari event emmiter, sehingga kita bisa menambahjkan listener kedalam process
+

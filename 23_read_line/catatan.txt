@@ -1,0 +1,6 @@
+#READLINE
+
+- merupakan standart library yang  di gunakan untuk membaca input \
+- readline hanya mendukung versi callback di versi nodejs lts 16
+- di nodejs 17 sudah mendukung versi promise sehingga lebih mudah di gunakan, namun itupun masih tahap experimental
+

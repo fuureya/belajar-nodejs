@@ -1,0 +1,5 @@
+NET 
+
+- merupakan standart library yang bisa di gunakan untuk membuat network client dan server berbasis TCP
+- net server dan client merupakan object streamer, sehingga kita bisa baca datanyaa, tulis datanya dan juga menambahkan listener
+
