@@ -1,0 +1,4 @@
+#ZLIB
+
+- Adalah standart library yang bisa di gunakan untuk melakukan kompresi menggunakan ZLIB
+
