@@ -1,0 +1,6 @@
+#console
+
+- adalah standart library yang sudah sering kita gunakan
+- secara global, object cobsole bisa kita gunakan tanpa harus melakukan import modules dan console melakukan print text nya ke stdout
+- namun jika kita juga bisa membua object console sendiri jika kita mau 
+
