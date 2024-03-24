@@ -1,0 +1,6 @@
+#event 
+
+- event adalah standart library di nodejs yang bisa di gunakan sebagai implementasi event listener
+- di dalam events, terdapat sebuah class bernama event emmiter yang bisa di gunakn untuk menampung data listener per jenis event
+- lalu kita bisa melakukan emmit untuk mentrigger jenis event dan mengirim data ke event tersebut 
+

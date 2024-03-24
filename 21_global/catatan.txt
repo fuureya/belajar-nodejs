@@ -1,0 +1,3 @@
+#global
+- di dalam nodejs terdapat library berupa variabel atau function yang secara global bisa di akses dimana saja atnpa harus melakukan import
+- kita bisa melihat detail apa saja fitur yang terdapat secara global di halaman dokumetasi nya \
