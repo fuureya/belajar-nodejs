@@ -1,0 +1,8 @@
+#CLUSTER
+
+- seperti yang di jelaskan di awal, bahwa nodejs itu secara default dia berjalan single thread,
+    kecuali jika kita membuat thread manual menggunakan worker thread, tapi dalam satu process
+
+- nodejs memiliki standart library bernama cluster, dimana kita bisa menjalankan beberapa proses nodejs sekaligus
+- ini sangat cocok ketika kita menggunakan CPU yang multicore, sehingga semua core bisa kita utilisasi dengan baik, 
+    misal kita jalankan process nodejs semulah CPU CORE.

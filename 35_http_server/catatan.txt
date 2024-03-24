@@ -1,0 +1,6 @@
+HTTP SERVER 
+
+- Standart library HTTP juga tidak hanya bisa di gunakan untuk membuat http client, tapi juga bisa di gunakan untuk membuat http server.
+- utuk kasus sederhana cocok sekali jika ingin membuat http server menggunakan standart library nodejs, namun untuk kasus yang lebih kompleks 
+    di rekomendasikan menggunakan library atau framework yang lebih mudah penggunaan nya. 
+

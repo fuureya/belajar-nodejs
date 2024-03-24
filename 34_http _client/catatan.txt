@@ -1,0 +1,6 @@
+HTTP CLIENT
+
+- nodejs memiliki fitur standart library untuk HTTP
+- salah satu fitur di module HTTP adalah HTTP Client dimana kita bisa melakukan simulasi http request menggunakan nodejs 
+- terdapat dua jenis module http di nodejs yaitu HTTP, HTTPS
+
