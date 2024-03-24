@@ -1,0 +1,7 @@
+#WORKER THREAD
+
+- worker thread merupakan standart library yang bisa kita gunakan untuk membuat thread ketika mengeksekusi javascript secara paralel.
+- worker thread sangat cocok ketika kita membuat program yang butuh jalan secara paralel, dan biasanya kasusnya adalak ketika kode program kita
+    membutuhkan proses yang CPU intensive, seperti misalnya enkripsi atau kompresi.
+- cara kerja worker thread mirip dengan web broker di javascript web api
+
